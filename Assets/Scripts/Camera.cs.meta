@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: cbb02ebe97617484f9444cafe07e9497
+labels:
+- Script
 timeCreated: 1478636237
 licenseType: Free
 MonoImporter:
