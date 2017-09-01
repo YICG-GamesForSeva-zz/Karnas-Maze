@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2017 Games For Seva - Digital Group, Young Indian Culture Group Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+The following sections will detail in the context of Games For Seva - Digital Group, and Young Indian Culture Group Inc. how this can be used
+for public use. 
+
+1. Contributions
+* All contributions should be generated from issues that have been raised by play testers.
+* Contributors must ensure to follow a procedure which goes from concept to code in order for the changes to be made accordingly
+
+2. References of Code
+* Should any code require change, first the requester must ensure to contact Young Indian Culture Group Inc. or Games For Seva to initiate
+a formal request to change
+* Any other software that is based on the architecture of this project, there must be an explicit reference to this repository in some form.
+Acceptable forms include:
+  1. Explicit project reference - state the project name, state the developer(s) responsible
+  2. Digital Reference(s) - In either the README.md or some other documentation, a web link can be used referring to whichever project
